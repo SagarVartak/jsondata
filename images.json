@@ -1,27 +1,33 @@
 [
     {
         "id":0,
-        "url":"http://shaaggy.epizy.com/Wallpaper/uchiha_madara_uchiha_izuna_naruto_look_wound_blood_99980_1080x1920.jpg"
+        "fileName":"x_men.jpg",
+        "url":"https://ik.imagekit.io/lxw26s0nhyv/Wallpapers/x_men.jpg"
     },
     {   
         "id":1,
-        "url":"http://shaaggy.epizy.com/Wallpaper/train_railway_platform_124422_1080x1920.jpg"
+        "fileName":"war0a.jpg",
+        "url":"https://ik.imagekit.io/lxw26s0nhyv/Wallpapers/war0a.jpg"
     },
     {
         "id":2,
-        "url":"http://shaaggy.epizy.com/Wallpaper/train_mountains_art_130351_1080x1920.jpg"
+        "fileName":"wallpaper1600x1200.jpg",
+        "url":"https://ik.imagekit.io/lxw26s0nhyv/Wallpapers/wallpaper1600x1200.jpg"
     },
     {
         "id":3,
-        "url":"http://shaaggy.epizy.com/Wallpaper/train_height_wood_mountains_railway_movement_green_trees_54597_720x1280.jpg"
+        "fileName":"wallpaper_need_for_speed.jpg",
+        "url":"https://ik.imagekit.io/lxw26s0nhyv/Wallpapers/wallpaper_need_for_speed.jpg"
     },
     {
         "id":4,
-        "url":"http://shaaggy.epizy.com/Wallpaper/siji_vocaloid_hatsune_miku_station_train_girl_snow_99127_1080x1920.jpg"
+        "fileName":"video-games-grand-theft-auto-rockstar-red-dead-redemption-rockstar-games.png",
+        "url":"https://ik.imagekit.io/lxw26s0nhyv/Wallpapers/video-games-grand-theft-auto-rockstar-red-dead-redemption-rockstar-games.png"
     },
     {   
         "id":5,
-        "url":"http://shaaggy.epizy.com/Wallpaper/ship_ocean_horizon_76975_720x1280.jpg"
+        "fileName":"wallp.jpg",
+        "url":"https://ik.imagekit.io/lxw26s0nhyv/Wallpapers/wallp.jpg"
     },
     {
         "id":6,
